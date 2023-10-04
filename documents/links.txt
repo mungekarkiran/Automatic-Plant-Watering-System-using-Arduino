@@ -1,0 +1,27 @@
+Automatic Plant Watering System using Arduino & Soil Moisture Sensor | LCD display 
+https://www.youtube.com/watch?v=8g8oiIa98xc
+
+Soil Moisture sensor with Arduino | How to read soil moisture values
+https://www.youtube.com/watch?v=wAjkSj3ZjLs
+
+Relay module with Arduino(code explained) | Control AC devices with arduino 
+https://www.youtube.com/watch?v=iy3nXFh__rg
+
+How to make Automatic Plant Watering System using Arduino UNO and Soil Sensor 
+https://www.youtube.com/watch?v=iwkE_HWU-6M
+
+Smart irrigation system with Arduino UNO R4 WIFI 
+https://www.youtube.com/shorts/5scMCeQZv-4
+
+Smart irrigation system with Arduino Uno
+https://www.youtube.com/watch?v=7KdhL_gAqHQ
+
+How to make Automatic Plant Watering System Using Arduino Uno & Soil Sensor
+https://www.youtube.com/watch?v=VPrHSuVRZeg
+
+Smart Irrigation System | Arduino Uno | DHT11 | Humidity Sensor | Soil Moisture Sensor | Relay
+https://www.youtube.com/watch?v=w8Gyti0fwqI
+
+Water Your Garden with IoT - Soil Moisture Sensors
+https://www.youtube.com/watch?v=pgGpuws7f9o
+
