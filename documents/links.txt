@@ -28,3 +28,5 @@ https://www.youtube.com/watch?v=pgGpuws7f9o
 Arduino is sending dht11 data to MySQL server(PHPMYADMIN) using python
 https://www.youtube.com/watch?v=cw4jLUGaQ9U&t=603s
 
+Generate Random Number Using Arduino
+https://www.instructables.com/Generate-Random-Number-using-Arduino/
