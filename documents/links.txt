@@ -30,3 +30,16 @@ https://www.youtube.com/watch?v=cw4jLUGaQ9U&t=603s
 
 Generate Random Number Using Arduino
 https://www.instructables.com/Generate-Random-Number-using-Arduino/
+
+Create CSV Files with Arduino Uno & Python 
+https://www.youtube.com/watch?v=vayAp84vea8&t=173s
+
+Arduino Sending Data to MySQL Database
+https://www.youtube.com/watch?v=VxmUinO6kro&t=16s
+
+Python Tutorial - How to Read Data from Arduino via Serial Port
+https://www.youtube.com/watch?v=AHr94RtMj1A
+
+Dsiplay Live Sensor Data on Live Chart and Gauge using Flask Python
+https://www.youtube.com/watch?v=gopZN_yVANQ
+https://github.com/soumilshah1995/Flask-Charts-Youtube-Tutorials-/blob/master/Multiple%20Live%20Graph%20with%20Gauge/templates/index.html
